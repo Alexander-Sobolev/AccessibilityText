@@ -11,7 +11,7 @@ import SwiftUI
 struct AccessibilityTextApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AccessibilityTextView()
         }
     }
 }
